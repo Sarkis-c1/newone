@@ -1,3 +1,9 @@
-.nav-menu{text-align: right; }
-.nav-spacing {
-margin-left: 10px; text-decoration: none; color: inherit;}
+.nav_Spacing {
+    margin: 0 0 0 10px;
+}
+.nav-menu {
+    text-align: right;
+}
+.no_Underline {
+    text-decoration: none;
+}
